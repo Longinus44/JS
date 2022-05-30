@@ -1,0 +1,16 @@
+.all{
+    text-align: center;
+    width: 80% blue;
+    height: 80vh;
+}
+.card{
+    background-color: grey;
+    position: relative;
+    top: 80px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    border-color: rgb(66, 98, 18);
+
+}
+
